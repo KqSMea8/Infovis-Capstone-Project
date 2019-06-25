@@ -11,3 +11,7 @@ We were also chosen for the Best Performance Award by our teacher, TAs and stude
 
 ## Demo
 You can see a movie description from [here](https://youtu.be/4QqEMkd728M).
+
+<video width="320" height="240" controls>
+  <source src="Edamame_demo.mp4" type="video/mp4">
+</video>

@@ -10,8 +10,4 @@ We got Industry Awards from LINE and Stockmark.
 We were also chosen for the Best Performance Award by our teacher, TAs and students. 
 
 ## Demo
-You can see a movie description from [here](https://youtu.be/4QqEMkd728M).
-
-<video width="320" height="240" controls>
-  <source src="Edamame_demo.mp4" type="video/mp4">
-</video>
+![demo](https://github.com/kajipyman/Infovis-Capstone-Project/blob/master/report/Edamame_demo.gif?raw=true)

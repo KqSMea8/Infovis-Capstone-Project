@@ -5,9 +5,9 @@
 ## Team: Edamame
 Haruka Aoki(@drgripa1), Nobukatsu Kajiura(@kajipyman)
 
-## Award
+## Awards
 We got Industry Awards from LINE and Stockmark.
-We were also chosen for the Best Performance Award by our teacher and students. 
+We were also chosen for the Best Performance Award by our teacher, TAs and students. 
 
-## Overview
+## Demo
 You can see a movie description from [here](https://youtu.be/4QqEMkd728M).

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-vista-224816",
+  "private_key_id": "2caebe2a423be5af9c1aa4376f7ae644a57897e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXx8wRE/nhtMI+\n3SGByTn4xbYRLNhsq8G1S/ZXITd4Yqfohg9RnNmqFIKGhfntfShjlOBGmwP6soC2\nphhgRN9Z+JwNjh4Rh8x4qFikYfHR4DNpJgzqF5GoAzvTps5nZGg/9iAuEmjm6XMV\nhsVstawCLOO7YYtl84uOrTzD0aLdbjvUBbpZY7pqZ7DhkEKw3ftkOJw0+GiNiEJ/\nHk8CveCf6Ft6BcWhMYw8fA85r6OCZJXR8u6XkTJA3hIveSV3NSbl+QzlanVqzyll\niEmQUbgVEBX/lJ9h98K+G7mWGjAO0Z4A6ADT3lQEdxwS+b8hnEdzyVp8zDtN9aUp\n4p4A0U8VAgMBAAECggEAA97ODrpcf4tl9omx2amZ1Bf7wYgb46sbANz5cKukWpDu\ncRHCgZS+JLpUcwRBLNzTViHr+eg65IrCG0SUaFmj5fG7HtUfPfJBHSLr4BrvovOS\nCH9JuQMuNiTEtHGn/xvCcO9BuYHUBtxGF6tArEf/61QRy6EexnfdV3RNBDgk4zLY\nCmRsHDktBiaw7Amtcxe2OypFTzw9QxmzAjwfEzPqhH6KDGYFUuaBXTaDF60HTr38\nwxy+6AobEcYBTRZEePxCVoKMlBBgI+L3PcvBdzlcrKihJucCEUG0WnswVpItByLw\nqCU0R+LJmfP1g3UaI1vzgf0JGAr5tct/arkT0mfUawKBgQDsn5N+dHR16yE07Rbk\nBYcMd+k473KLmM/KsKZD1CvkQTrdB0jImJLGwooAhYz16x4274uHRM2xp09HXIDs\nev/boTUGE9yfdLL5ky86dvdOpptDqrR6BQIzNCd1Y5PN0Gpo58YwFe/OjlVvd6RY\n2010aNj+vo8ydZ200UtCnIrLzwKBgQDpc0ijMvJDOmj8gQd5SdkYU/kLLapXfe4g\nfcDS0LWLeHjkDlOkvb2/VLtv5r4tJp5aShC5JXZ+Vuamb1ILMkalXuyDsMnKJOjf\nL6rHPHQF5tKCEqK9GQ/Hd8Km52NMuXSlWFGGdZ0u81d5Hr0KtOunm9yhoiE2aTsJ\nc5jfJu/72wKBgQCoEfibu2/1Sdu+UiEOOXbhPlLj5ABCc3o0iCCw0QWUDVkYIdJq\n2SR4FTocgL/M9QHzF1bN7+sCospG78eLMRqHEAwvkvAEOsndR9Ql/NZQgTqLZ7bl\nbKVRZVwZn28eo0jR1r8I7Kv21VaN5DdR/gMYClkHKKdhufUYuAhy+eoENQKBgA/a\n340N8bw1JFo53SsUo+TuFxT2RgJpMBoO0GDBAgN17Cf4/R9ML63l8FD6R+JDJDAX\npakdbT3JYyLcnqLaCEhE+SU8hYfwF8zIrP2ZEnwwIA3rfBgBsrumW5cAUhMs6Uot\nhGPwavt8VW2Jc+ddQEAC6uojW8QZQ4Qx0KkfON9PAoGBAI1YdCGU6oMRtoePhFK8\n4cCi96KO/7OajGrYhUuLl3wZIUT68i67xDh9fub2k0+T1Fj80aUQMy77duY/smFr\nNJ6QCQq/2ofv2IoIj7vB/vGKjkSr7BlX5LWmtjl+wUtrBsVsBYS7eJltcoFXSJxb\nNjQaa4GP0YfedWFet8rbj2m6\n-----END PRIVATE KEY-----\n",
+  "client_email": "drgripa1@quantum-vista-224816.iam.gserviceaccount.com",
+  "client_id": "113664031555829917780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drgripa1%40quantum-vista-224816.iam.gserviceaccount.com"
+}

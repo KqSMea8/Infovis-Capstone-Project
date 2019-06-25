@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iron-ripple-224006",
+  "private_key_id": "ff848dab894998117d5a7700909ddbf98028dfdb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAACCW+inIZKG5\nohYQd4WkHBRJpb0SvWDhHQZP6NHWKQfb4BIHufUuo3+LexEqlpMy1tEere2NXB9D\nqLFvFNjOkPQMY8N6CiWSo5n1YCYWGnFW/LEKTPe8WP7UcoajGEQEx/MVUZXi/dZw\nNag3gQo7D1DHq9DXNRPu++PmCygXDR/gBVN8Y/5hSx62AH9suQGNLDJ8ofM1Y8KQ\nKhsX6mvTYyUqDzo5X2iSSEicrN+9oxvUEG+iJPSmlHkglO+FJv2lrDbzh3fUCqR+\nUSCZyoALugB1DqkdLV5xIWdsHgoln4zxU6roPqZhHhb20oERbT8Kln3v/zYfyKgi\n6lrP/sG/AgMBAAECggEAFztsthgLGj5i+01Lki6EMzlakxbE7BGSOWsDqoOncFyC\noO5aAClWK5CJDF2V1CtoIEyx/R5akjJFbjBpV+GT4lrTzPP9YTT9GuNE69X4hdAp\nSrdEzNRHXbj/DMHW3MFA6bswBLJcipzgZ692bVDl5gOSaLa3jHLVuKMuDlXnQfKU\nxnrtdwFsQVFjZHrxZnBZVaFfSlkw5HReOR5O/iBKN0cnOJBXT2b5RKvCj3I2Bupx\nVV2usZce3RIB7Bnk2HB/hYUlNIauNCu0P0GnKSgAfP9LPCM7ILLHwMBGVuy3hCmV\nq3AFcbSNGuUXQL54vnE8H44tOvTr9vo+QodRvjdxMQKBgQDwa4dOO9QWqmegtb2Q\n4jeoRG/v2pu+pcrS8TmvaNV7JKma023uDAeeLIgD6i/w5VrQftykDhxREHnjl+RP\n9P2gLxdAURJk1DUXJsoP0aoHpa50RdDMmQ7IP+sJQpcSuQLG7AsQyBQJutXN9KbH\nbSqFZfy+DEhW44x0LgzPR4QlLQKBgQDMcVaSt1U9TblO7/ryHLA68HPJ582rwl6M\nJJJIB7Akq9b3RMJ87pOe5GTvC5APrApNyt8Vh1II4fCFMgy6Fqvqqoj+2E7kjLfG\nMU7x9UjmQYIlWdbnbgqOlrUjXpDEIZ3w7F8bVDS48mXqbRlnvmj+cZWoF9A3XqQ9\n3+U4MdvuGwKBgA+5GIo3Q3GQB2LtP85/3N/2SdPH2jOnqBIPkJQ2KO/6v9TOSvws\ncTsY8nQ/Fo+MkFneUhOwkI2EpFQMFPRds1CMg9rC8o8Bic9PzBsovRPu8+/KuRMI\nV30lIPvkDPk+fD4CJd8dFqJkQ6NKgrW8H/HFb7gGGZ0FGKRodpH/vVapAoGBAJmW\nsBZq+vOiN4wRB/LqEI9G44YUylO2IzefpfHNLMxv+IAtPPuEdIyTQyy/AAx2EAuf\nVHclAUFBFGPMVPlcXO1gDql+Mc7L1KhllMx7nLe3ESIkWynkZrP2jsCyo4llQ/Wi\nblTmrvEe0egK7GIfD1vQU0FEGp3uUO9XDCpqcrJvAoGACvTG+oDh6IAVYvg5BjY1\nW1rSVSZKdafhmAttfiHfitbAVrU0wmLbueeUhC4IHEfMyj9S0Oo7nDtxdpQS3lft\nFXVXQDwt8xUeREGy5xmunQsHDxWAf7OrTyBI/cOF2ubPTJTsPPaFGDYjgND2pnB3\nPQQKA4N3peM68i0rMuKCq1I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drgripa1@iron-ripple-224006.iam.gserviceaccount.com",
+  "client_id": "113373614481704317337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drgripa1%40iron-ripple-224006.iam.gserviceaccount.com"
+}
